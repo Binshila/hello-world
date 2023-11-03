@@ -1,2 +1,2 @@
 # hello-world
-Hi everyone! It's me Binsu.
+Hi everyone! It's me Binsu.I am a student.
